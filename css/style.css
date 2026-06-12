@@ -956,8 +956,8 @@ img.voice___card-image.voice___card-image2 {
     z-index: 100;
 }
 .modal .modal__header-body {
-    width: 70%;
-    padding: 1rem 5rem 1rem 10rem;
+    width: 100%;
+    padding: 1rem 5rem 1rem 13rem;
 }
 .modal .modal__title {
     font: normal normal normal 30px/45px Hiragino Sans;
